@@ -1,0 +1,11 @@
+git init
+git add . (todos os arquivos)
+git status (verificar)
+git add NomeDoArquivo
+git commmit -m "MENSAGEM"
+git log (mostrar as alterações)
+git restore (voltar na ultima versão commitada)
+git checkout -b *NomeDaNovaBranch* (cria uma nova branch)
+git remote add origin (nome do "projeto") https://github.com/balunaldo/meu-projeto.git (Link do repositório)
+git push origin (nome do "projeto") master (branch) - ENVIAR
+git pull - RECEBER
